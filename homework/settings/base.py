@@ -33,6 +33,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     #APPS LOCAL
+    'applicactions.housework',
+    'applicactions.persons',
 ]
 
 MIDDLEWARE = [
